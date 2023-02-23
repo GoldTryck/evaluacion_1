@@ -33,7 +33,7 @@ int main()
 		}while(respuesta < 97 || respuesta > 98); //se usa un ciclo do while para asegurarnos que se ingreso una respuesa dentro de rango. 
 		
 		if(respuesta == 97) sumaPuntos += ponderacion[i];
-		else sumaPuntos = sumaPuntos + 2;
+		else sumaPuntos += 2;
 	}
 	
 	//El maximo de puntos a obtener es de 60, 42 puntos representan el 70% del total, tal que:
