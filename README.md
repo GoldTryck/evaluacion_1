@@ -1,3 +1,12 @@
+#Laboratorio 04
+Es un código que realiza 4 operaciones con numeros enteros con base en una serie de condiciones:
+suma de dos numeros primos.
+resta de dos numeros impares (deben ser multiplos de 05).
+división exacta de dos numeros.
+multiplicación de dos numeros mayores que 10.
+Se implementa un bucle while para iterar el programa tantas veces como el usuario requiera.
+Se codificó en C para entornos Windows y en python para entornos Linux
+
 # evaluacion_1
 
 El codigo realizará 10 preguntas previamente definidas y ponderadas
