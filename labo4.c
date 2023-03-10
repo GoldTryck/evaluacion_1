@@ -101,7 +101,7 @@ void mult(){
     num1 = leerNum();
     printf("Ingrese otro numero entero: ");
     num2 = leerNum();
-    if(num1 > 10 && num2 > 10) printf("%d",num1 * num2);
+    if(num1 > 10 && num2 > 10) printf("%d * %d = %d",num1,num2,num1 * num2);
     else printf("La multiplicacion no se puede realizar porque alguno de los numeros no es mayor que 10.\n");
 }
 void printMenu(int *option){
